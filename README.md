@@ -2,7 +2,7 @@
 [![@pabitra0011's Holopin board](https://holopin.me/pabitra0011)](https://holopin.io/@pabitra0011)
 
 <h1 align="center">Hi 👋, I'm Pabitra Pal</h1>
-<h3 align="center">A Full Stack developer from India</h3>
+<h3 align="center">A Full Stack aspiring developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pabitra0011&label=Profile%20views&color=0e75b6&style=flat" alt="pabitra0011" /> </p>
